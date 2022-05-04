@@ -1,0 +1,16 @@
+{
+  "name": "amocrm_script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "jsdom": "^19.0.0"
+  }
+}
